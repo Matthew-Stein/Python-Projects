@@ -1,6 +1,8 @@
 #! python3
-#This is designed to scrape a random wikipedia article, scrape the 
+#This is designed to scrape a random wikipedia article, grab the 
 #intro and abstract as well as the link, and display to me at login. 
+### Did not know about the Wikipedia API when i started this, didnt realise it would basically do all the work... 
+   # Wasted a lot of time fiddling with trying to understand Html code. 
 import os
 os.getcwd()
 os.chdir(r"C:\Users\Matthew\Documents\GitHub\Python-Projects\wikiLearn")
